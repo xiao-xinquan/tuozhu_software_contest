@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: a9e284b34a712684fbfc6f095a5494c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3594
+        width: 576
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3d412516d027548a8d1192f25ea7c2
+      internalID: 1204314585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_1
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3538
+        width: 1906
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2546a291f9dfd4faf7de0e0d17de93
+      internalID: -2041064979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_2
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 3712
+        width: 260
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676fbc2298f6d4749b21eb2e804a9271
+      internalID: -194942334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_3
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 3724
+        width: 288
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b832d0c51b7fe6f4da1497d88736b765
+      internalID: -590194441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_4
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 3718
+        width: 246
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108048b42b2708e4ca888eb4ff7967b2
+      internalID: -1767452692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3126
+        width: 650
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c016a45c7d508b943acbd33fd45f69d4
+      internalID: -1302377807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2940
+        width: 1698
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d90a7e35220ee340842ea4aa7d4c8ca
+      internalID: -2028590519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_7
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 3390
+        width: 256
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be1a9eea1edd034c94dfd75d60877af
+      internalID: -1098505019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_8
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 3378
+        width: 358
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83646ff8370190429f6b8610a512de2
+      internalID: 155177076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_9
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 3384
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb07a95ef1e510842b21da9ae7986d07
+      internalID: 1919309128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_10
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 3038
+        width: 238
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67d91de5199dc54799b13d2693a1543
+      internalID: 1599483305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_11
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 3060
+        width: 266
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a967eaef6ec24c87c80c04f7587fc
+      internalID: 843471470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_12
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 3054
+        width: 348
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79281f683025eb48bc6686b7cf50087
+      internalID: -1585687243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2694
+        width: 688
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74cc44cfddd4ac46b4c85afdb0fc267
+      internalID: -2069040193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2480
+        width: 874
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20deaf92fca48e4fa09696053b9a3e9
+      internalID: -1086419541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_15
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 2494
+        width: 640
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9348ca12107e2409274ccf2cd037de
+      internalID: -1016862621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_16
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 802
+        width: 954
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02bf28cd906ecb4c9934811b2125e28
+      internalID: 166204501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1616
+        width: 1272
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca885c4f8846346af6623129a3373a
+      internalID: -1126443231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_18
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1656
+        width: 1434
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b994e36a9438b5439e712b10a1b1525
+      internalID: 311853996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 854
+        width: 1274
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ba6be4d8af0414a933c06bda1cb075
+      internalID: -829625903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1054
+        width: 1130
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f1395b8c090484cb85881e1279e5ed
+      internalID: 721794554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 472
+        width: 1032
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35426104d7e221843925094f308d313d
+      internalID: -1065324258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 470
+        width: 512
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e498bfd380386e49ba0b26cc08730ae
+      internalID: 592429295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_23
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 474
+        width: 416
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9742eac9de4c3bd429ca07fa9a5a94d2
+      internalID: -163781029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_24
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 546
+        width: 132
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8befd6432e4b04946beeef2af4af49bc
+      internalID: 924453563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_25
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 552
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37302b31151575d40997f6a07a28feb2
+      internalID: 1939030753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_26
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 568
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fdd4914ff89574babcd6c06d106868
+      internalID: 1839947896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_27
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 542
+        width: 292
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea98b5e257079d42bcdf44fefdd7195
+      internalID: 1978523114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 218
+        width: 2022
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd23f9943cd7c7e4cb449e41fde74a46
+      internalID: -1094592279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_29
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 386
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56af06a76ab92c747a7bcf1dca6ca079
+      internalID: -102204704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_30
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 380
+        width: 182
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b297653d0184546a5747d74e36e18f
+      internalID: 1160330681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_31
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 382
+        width: 134
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db687b3ef61bf7e4398bbc020c69fbd7
+      internalID: 1892329417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_32
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 316
+        width: 332
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ff7347a38beb48bc7a7eeec2b4d8d
+      internalID: 1062728947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_33
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 210
+        width: 122
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4a787139bd344386927b232f4460a
+      internalID: -1281242862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_34
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 220
+        width: 136
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ae824a1fae3c940acb7cadf8b68fc3
+      internalID: 1958806982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_35
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 218
+        width: 178
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d3a9442f4204641906f2e87eafc80b
+      internalID: -1801621137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungal - StoneSprites_36
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 86
+        width: 292
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a0084f5f403e43858454e3978a398
+      internalID: 1542020344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fungal - StoneSprites_0: 1204314585
+      Fungal - StoneSprites_1: -2041064979
+      Fungal - StoneSprites_10: 1599483305
+      Fungal - StoneSprites_11: 843471470
+      Fungal - StoneSprites_12: -1585687243
+      Fungal - StoneSprites_13: -2069040193
+      Fungal - StoneSprites_14: -1086419541
+      Fungal - StoneSprites_15: -1016862621
+      Fungal - StoneSprites_16: 166204501
+      Fungal - StoneSprites_17: -1126443231
+      Fungal - StoneSprites_18: 311853996
+      Fungal - StoneSprites_19: -829625903
+      Fungal - StoneSprites_2: -194942334
+      Fungal - StoneSprites_20: 721794554
+      Fungal - StoneSprites_21: -1065324258
+      Fungal - StoneSprites_22: 592429295
+      Fungal - StoneSprites_23: -163781029
+      Fungal - StoneSprites_24: 924453563
+      Fungal - StoneSprites_25: 1939030753
+      Fungal - StoneSprites_26: 1839947896
+      Fungal - StoneSprites_27: 1978523114
+      Fungal - StoneSprites_28: -1094592279
+      Fungal - StoneSprites_29: -102204704
+      Fungal - StoneSprites_3: -590194441
+      Fungal - StoneSprites_30: 1160330681
+      Fungal - StoneSprites_31: 1892329417
+      Fungal - StoneSprites_32: 1062728947
+      Fungal - StoneSprites_33: -1281242862
+      Fungal - StoneSprites_34: 1958806982
+      Fungal - StoneSprites_35: -1801621137
+      Fungal - StoneSprites_36: 1542020344
+      Fungal - StoneSprites_4: -1767452692
+      Fungal - StoneSprites_5: -1302377807
+      Fungal - StoneSprites_6: -2028590519
+      Fungal - StoneSprites_7: -1098505019
+      Fungal - StoneSprites_8: 155177076
+      Fungal - StoneSprites_9: 1919309128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
