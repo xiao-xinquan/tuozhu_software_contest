@@ -9,7 +9,7 @@ public class freqControl : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        audioValue = Mic_Input.spectrumValue;
+        // audioValue = Mic_Input.spectrumValue;
     }
 
     // Update is called once per frame
