@@ -4,28 +4,28 @@ using UnityEngine;
 
 public class freqControl : MonoBehaviour
 {
-    public float audioValue = 0f;
+    public float audioValue;
     public float volume;
-    public float min_Volume = 0.1f;//Ê¶±ğÎªÔÚ³öÉù
-    public float freq_low = 0.1f;//ÆµÂÊ×îµÍ
-    public float freq_high = 20f;//ÆµÂÊ×î¸ß
+    public float min_Volume = 0.1f;//Ê¶ï¿½ï¿½Îªï¿½Ú³ï¿½ï¿½ï¿½
+    public float freq_low = 0.1f;//Æµï¿½ï¿½ï¿½ï¿½ï¿½
+    public float freq_high = 20f;//Æµï¿½ï¿½ï¿½ï¿½ï¿½
 
-    private Vector2 target;//¸ù¾İÉùÒôÆµÂÊÈ·¶¨µÄÄ¿±ê¸ß¶È
+    private Vector2 target;//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æµï¿½ï¿½È·ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½ï¿½ß¶ï¿½
 
     [SerializeField] private GameObject[] points;
     [SerializeField] private float speed = 1f;
-    private int pointIndex = 1;  //µãµÄÈ¡Öµ
+    private int pointIndex = 1;  //ï¿½ï¿½ï¿½È¡Öµ
     private float waitTime = 0.5f;
 
-    // Start is called before the first frame update
-    void Start()
+    public void Initialize()
     {
+        // å°†Startæ–¹æ³•ä¸­çš„ä»£ç ç§»åŠ¨åˆ°è¿™é‡Œ
         target = new Vector2(points[pointIndex].transform.position.x, points[pointIndex].transform.position.y);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void PerformUpdate()
     {
+        // å°†Updateæ–¹æ³•ä¸­çš„ä»£ç ç§»åŠ¨åˆ°è¿™é‡Œ
         audioValue = Mic_Input.audioValue;
         volume = Mic_Input.volume;
 
@@ -56,5 +56,22 @@ public class freqControl : MonoBehaviour
                 }
             }
         }
+    }
+
+    public void Start()
+    {
+        Initialize();
+    }
+
+    public void Update()
+    {
+        PerformUpdate();
+    }
+
+    public void playerFly()
+    {
+        Debug.Log("Enter the other script");
+        Initialize();
+        PerformUpdate();
     }
 }
